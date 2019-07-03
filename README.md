@@ -2,7 +2,7 @@
 A simple way for users to submit important information, and staff to approve the information before being broadcast to your server
 
 
-#CONFIG INFO#
+#CONFIG INFO#\n
 submit_channel: the channel ID that regular users can submit information to
 staff_channel: the channel that staff users approve messages in
 public_channel: the channel that approved information is posted in
